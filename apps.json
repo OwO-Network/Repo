@@ -9,5 +9,22 @@
         "repoName": "OwO Network IPA Repo",
         "repoIcon": "https://cdn.discordapp.com/attachments/1105094393771347976/1146587609674547230/apptesters-resized.png"
     },
-    "apps": []
+    "apps": [
+        {
+            "name": "WeChat",
+            "realBundleID": "com.tencent.xin",
+            "bundleID": "com.tencent.xin",
+            "bundleIdentifier": "com.tencent.xin",
+            "version": "8.0.42",
+            "versionDate": "2023-10-06",
+            "fullDate": "20231006100147",
+            "size": 319440481,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2023-10-06/WeChat_8.0.42_PKC_0.4.3_MiYou_3.6.5_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2023-10-06/WeChat_8.0.42_PKC_0.4.3_MiYou_3.6.5_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with PKC 0.4.3 MiYou 3.6.5",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png"
+        }
+    ]
 }
