@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "XianYu",
+            "realBundleID": "com.taobao.fleamarket",
+            "bundleID": "com.taobao.fleamarket",
+            "bundleIdentifier": "com.taobao.fleamarket",
+            "version": "7.12.71",
+            "versionDate": "2023-10-06",
+            "fullDate": "20231006133205",
+            "size": 115449700,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2023-10-06/XianYu_7.12.71_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2023-10-06/XianYu_7.12.71_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.taobao.fleamarket.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.taobao.fleamarket.png"
+        },
+        {
             "name": "DouYin",
             "realBundleID": "com.ss.iphone.ugc.Aweme",
             "bundleID": "com.ss.iphone.ugc.Aweme",
