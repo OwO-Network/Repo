@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "WeChat",
+            "realBundleID": "com.tencent.xin",
+            "bundleID": "com.tencent.xin",
+            "bundleIdentifier": "com.tencent.xin",
+            "version": "8.0.43.16.TF",
+            "versionDate": "2023-10-08",
+            "fullDate": "20231008032305",
+            "size": 335935916,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2023-10-07/WeChat_8.0.43.16.TF_PKC_0.4.3_MiYou_3.6.5_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2023-10-07/WeChat_8.0.43.16.TF_PKC_0.4.3_MiYou_3.6.5_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with PKC 0.4.3 MiYou 3.6.5",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png"
+        },
+        {
             "name": "MailMasterPro",
             "realBundleID": "com.netease.mailmasterpro",
             "bundleID": "com.netease.mailmasterpro",
