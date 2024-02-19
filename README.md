@@ -1,4 +1,4 @@
-# OwO Network IPA Release IPA
+# OwO Network IPA
 **We do not accept any IPA with channel advertising. We will never charge any fees. This is a free repo. If you have any app requests, please submit an [Issue](https://github.com/OwO-Network/Repo/issues/new/choose).**
 
 ## Contribute
