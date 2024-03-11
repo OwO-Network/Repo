@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Infuse",
+            "realBundleID": "com.firecore.infuse",
+            "bundleID": "com.firecore.infuse",
+            "bundleIdentifier": "com.firecore.infuse",
+            "version": "7.7.1",
+            "versionDate": "2024-03-11",
+            "fullDate": "20240311121146",
+            "size": 40181478,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2024-03-11/Infuse_7.7.1_Plus_1.1.5_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-03-11/Infuse_7.7.1_Plus_1.1.5_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus 1.1.5",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.firecore.infuse.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.firecore.infuse.png"
+        },
+        {
             "name": "WeChat",
             "realBundleID": "com.tencent.xin",
             "bundleID": "com.tencent.xin",
