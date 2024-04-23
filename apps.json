@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Douyin",
+            "realBundleID": "com.ss.iphone.ugc.Aweme",
+            "bundleID": "com.ss.iphone.ugc.Aweme",
+            "bundleIdentifier": "com.ss.iphone.ugc.Aweme",
+            "version": "29.6.0",
+            "versionDate": "2024-04-23",
+            "fullDate": "20240423161957",
+            "size": 313386974,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2024-04-23/Douyin_29.6.0_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-04-23/Douyin_29.6.0_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.ss.iphone.ugc.Aweme.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.ss.iphone.ugc.Aweme.png"
+        },
+        {
             "name": "WeChat",
             "realBundleID": "com.tencent.xin",
             "bundleID": "com.tencent.xin",
