@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "BaiduMap",
+            "realBundleID": "com.baidu.map.watchkitapp",
+            "bundleID": "com.baidu.map.watchkitapp",
+            "bundleIdentifier": "com.baidu.map.watchkitapp",
+            "version": "19.5.3",
+            "versionDate": "2024-05-14",
+            "fullDate": "20240514053358",
+            "size": 198377281,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2024-05-14/BaiduMap_19.5.3_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-05-14/BaiduMap_19.5.3_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.baidu.map.watchkitapp.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.baidu.map.watchkitapp.png"
+        },
+        {
             "name": "WeChat",
             "realBundleID": "com.tencent.xin",
             "bundleID": "com.tencent.xin",
