@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Asspp+",
+            "realBundleID": "com.hdnwbtb.uixnoe",
+            "bundleID": "com.hdnwbtb.uixnoe",
+            "bundleIdentifier": "com.hdnwbtb.uixnoe",
+            "version": "2.0.2",
+            "versionDate": "2024-07-31",
+            "fullDate": "20240731055135",
+            "size": 7084357,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2024-07-31/Asspp%2B_2.0.2_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-07-31/Asspp%2B_2.0.2_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.hdnwbtb.uixnoe.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.hdnwbtb.uixnoe.png"
+        },
+        {
             "name": "Asspp",
             "realBundleID": "wiki.qaq.Asspp",
             "bundleID": "wiki.qaq.Asspp",
