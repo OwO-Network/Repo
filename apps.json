@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "BigBrotherMovies",
+            "realBundleID": "com.yunti.zzm.dxiao",
+            "bundleID": "com.yunti.zzm.dxiao",
+            "bundleIdentifier": "com.yunti.zzm.dxiao",
+            "version": "4.1.0",
+            "versionDate": "2024-08-05",
+            "fullDate": "20240805070024",
+            "size": 97558090,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2024-08-05/BigBrotherMovies_4.1.0_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-08-05/BigBrotherMovies_4.1.0_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.yunti.zzm.dxiao.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.yunti.zzm.dxiao.png"
+        },
+        {
             "name": "WeChat",
             "realBundleID": "com.tencent.xin",
             "bundleID": "com.tencent.xin",
