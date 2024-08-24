@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "WeChat",
+            "realBundleID": "com.tencent.xin",
+            "bundleID": "com.tencent.xin",
+            "bundleIdentifier": "com.tencent.xin",
+            "version": "8.0.50",
+            "versionDate": "2024-08-24",
+            "fullDate": "20240824202942",
+            "size": 319411228,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2024-08-24/WeChat_8.0.50_PKC_0.5.6_MiYou_3.8.0_XNSP_2.2.1_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-08-24/WeChat_8.0.50_PKC_0.5.6_MiYou_3.8.0_XNSP_2.2.1_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with PKC 0.5.6 MiYou 3.8.0 XNSP 2.2.1",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png"
+        },
+        {
             "name": "AppInfo",
             "realBundleID": "uclort.com.AppInfo",
             "bundleID": "uclort.com.AppInfo",
