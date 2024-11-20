@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "358.0.0",
+            "versionDate": "2024-11-20",
+            "fullDate": "20241120010351",
+            "size": 197056910,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2024-11-19/Instagram_358.0.0_Regram_1.0-b16_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-11-19/Instagram_358.0.0_Regram_1.0-b16_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Regram 1.0-b16",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "WeChat",
             "realBundleID": "com.tencent.xin",
             "bundleID": "com.tencent.xin",
