@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MuffinStoreJailed",
+            "realBundleID": "dev.mineek.MuffinStoreJailed",
+            "bundleID": "dev.mineek.MuffinStoreJailed",
+            "bundleIdentifier": "dev.mineek.MuffinStoreJailed",
+            "version": "20240103",
+            "versionDate": "2025-01-03",
+            "fullDate": "20250103123829",
+            "size": 459185,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2024-01-03/MuffinStoreJailed_20240103_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-01-03/MuffinStoreJailed_20240103_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/dev.mineek.MuffinStoreJailed.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/dev.mineek.MuffinStoreJailed.png"
+        },
+        {
             "name": "WeChat",
             "realBundleID": "com.tencent.xin",
             "bundleID": "com.tencent.xin",
