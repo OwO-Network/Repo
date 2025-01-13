@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "com.burbn.instagram_362.0.0_regram_1.0.b20_sl",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "Unknown",
+            "versionDate": "2025-01-13",
+            "fullDate": "20250113185339",
+            "size": 204357512,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-01-13/com.burbn.instagram_362.0.0_regram_1.0.b20_sl.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-01-13/com.burbn.instagram_362.0.0_regram_1.0.b20_sl.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "MuffinStoreJailed",
             "realBundleID": "dev.mineek.MuffinStoreJailed",
             "bundleID": "dev.mineek.MuffinStoreJailed",
