@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "JavDB",
+            "realBundleID": "com.javdb.com",
+            "bundleID": "com.javdb.com",
+            "bundleIdentifier": "com.javdb.com",
+            "version": "1.9.28",
+            "versionDate": "2025-01-14",
+            "fullDate": "20250114143957",
+            "size": 23302569,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-01-14/JavDB_1.9.28_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-01-14/JavDB_1.9.28_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png"
+        },
+        {
             "name": "Instagram",
             "realBundleID": "com.burbn.instagram",
             "bundleID": "com.burbn.instagram",
