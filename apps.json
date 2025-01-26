@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Weibo",
+            "realBundleID": "com.sina.weibo",
+            "bundleID": "com.sina.weibo",
+            "bundleIdentifier": "com.sina.weibo",
+            "version": "15.1.2",
+            "versionDate": "2025-01-26",
+            "fullDate": "20250126052528",
+            "size": 176153497,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-01-26/Weibo_15.1.2_NoAds_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-01-26/Weibo_15.1.2_NoAds_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with NoAds",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.sina.weibo.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.sina.weibo.png"
+        },
+        {
             "name": "JavDB",
             "realBundleID": "com.javdb.com",
             "bundleID": "com.javdb.com",
