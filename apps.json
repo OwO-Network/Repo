@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "HotTub",
+            "realBundleID": "com.c1d3r.Hot-Tub",
+            "bundleID": "com.c1d3r.Hot-Tub",
+            "bundleIdentifier": "com.c1d3r.Hot-Tub",
+            "version": "2.1.0.2",
+            "versionDate": "2025-02-04",
+            "fullDate": "20250204060503",
+            "size": 21719175,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-02-04/HotTub_2.1.0.2_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-02-04/HotTub_2.1.0.2_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.c1d3r.Hot-Tub.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.c1d3r.Hot-Tub.png"
+        },
+        {
             "name": "Weibo",
             "realBundleID": "com.sina.weibo",
             "bundleID": "com.sina.weibo",
