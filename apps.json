@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "367.0.0",
+            "versionDate": "2025-02-14",
+            "fullDate": "20250214183602",
+            "size": 205395385,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-02-14/Instagram_367.0.0_Regram_1.0-b22_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-02-14/Instagram_367.0.0_Regram_1.0-b22_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Regram 1.0-b22",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "HotTub",
             "realBundleID": "com.c1d3r.Hot-Tub",
             "bundleID": "com.c1d3r.Hot-Tub",
