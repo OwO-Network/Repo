@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FlowDown",
+            "realBundleID": "wiki.qaq.flow",
+            "bundleID": "wiki.qaq.flow",
+            "bundleIdentifier": "wiki.qaq.flow",
+            "version": "1.0",
+            "versionDate": "2025-03-08",
+            "fullDate": "20250308141719",
+            "size": 17347306,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-03-08/FlowDown_1.0_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-03-08/FlowDown_1.0_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/wiki.qaq.flow.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/wiki.qaq.flow.png"
+        },
+        {
             "name": "WeChat",
             "realBundleID": "com.tencent.xin",
             "bundleID": "com.tencent.xin",
