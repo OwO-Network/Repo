@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "369.0.0",
+            "versionDate": "2025-03-14",
+            "fullDate": "20250314052929",
+            "size": 206021368,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-03-14/Instagram_369.0.0_Regram_1.0-b23_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-03-14/Instagram_369.0.0_Regram_1.0-b23_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Regram 1.0-b23",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
             "name": "FlowDown",
             "realBundleID": "wiki.qaq.flow",
             "bundleID": "wiki.qaq.flow",
