@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "WeChat",
+            "realBundleID": "com.tencent.xin",
+            "bundleID": "com.tencent.xin",
+            "bundleIdentifier": "com.tencent.xin",
+            "version": "8.0.56",
+            "versionDate": "2025-03-15",
+            "fullDate": "20250315203757",
+            "size": 333994012,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-03-16/WeChat_8.0.56_PKC_0.6.8_MiYou_3.8.1_XNSP_2.2.5_Push_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-03-16/WeChat_8.0.56_PKC_0.6.8_MiYou_3.8.1_XNSP_2.2.5_Push_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with PKC 0.6.8 MiYou 3.8.1 XNSP 2.2.5 Push",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png"
+        },
+        {
             "name": "Instagram",
             "realBundleID": "com.burbn.instagram",
             "bundleID": "com.burbn.instagram",
