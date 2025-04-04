@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Asspp_1.2.10_Fixed",
+            "realBundleID": "wiki.qaq.Asspp",
+            "bundleID": "wiki.qaq.Asspp",
+            "bundleIdentifier": "wiki.qaq.Asspp",
+            "version": "Unknown",
+            "versionDate": "2025-04-04",
+            "fullDate": "20250404180842",
+            "size": 6728048,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-04-04/Asspp_1.2.10_Fixed.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-04-04/Asspp_1.2.10_Fixed.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/wiki.qaq.Asspp.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/wiki.qaq.Asspp.png"
+        },
+        {
             "name": "Instagram",
             "realBundleID": "com.burbn.instagram",
             "bundleID": "com.burbn.instagram",
