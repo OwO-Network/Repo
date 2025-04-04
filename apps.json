@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Instagram",
+            "realBundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "374.1.10",
+            "versionDate": "2025-04-04",
+            "fullDate": "20250404170702",
+            "size": 215291765,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-04-04/Instagram_374.1.10_Regram_1.0.25_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-04-04/Instagram_374.1.10_Regram_1.0.25_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Regram 1.0.25",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png"
+        },
+        {
+            "name": "WeChat",
+            "realBundleID": "com.tencent.xin",
+            "bundleID": "com.tencent.xin",
+            "bundleIdentifier": "com.tencent.xin",
+            "version": "8.0.57",
+            "versionDate": "2025-04-04",
+            "fullDate": "20250404170642",
+            "size": 330143625,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-04-04/WeChat_8.0.57_PKC_0.7.1_MiYou_3.8.3_XNSP_2.2.5_Push_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-04-04/WeChat_8.0.57_PKC_0.7.1_MiYou_3.8.3_XNSP_2.2.5_Push_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with PKC 0.7.1 MiYou 3.8.3 XNSP 2.2.5 Push",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png"
+        },
+        {
             "name": "Jianying",
             "realBundleID": "com.lemon.lv",
             "bundleID": "com.lemon.lv",
