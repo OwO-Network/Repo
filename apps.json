@@ -12,18 +12,18 @@
     },
     "apps": [
         {
-            "name": "Asspp_1.2.10_Fixed",
+            "name": "Asspp",
             "realBundleID": "wiki.qaq.Asspp",
             "bundleID": "wiki.qaq.Asspp",
             "bundleIdentifier": "wiki.qaq.Asspp",
-            "version": "Unknown",
+            "version": "1.2.10",
             "versionDate": "2025-04-04",
             "fullDate": "20250404180842",
             "size": 6728048,
-            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-04-04/Asspp_1.2.10_Fixed.ipa",
-            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-04-04/Asspp_1.2.10_Fixed.ipa",
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-04-04/Asspp_1.2.10_Fixed_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-04-04/Asspp_1.2.10_Fixed_%40repo.owo.network.ipa",
             "developerName": "",
-            "localizedDescription": null,
+            "localizedDescription": "Injected with Fixed",
             "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/wiki.qaq.Asspp.png",
             "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/wiki.qaq.Asspp.png"
         },
