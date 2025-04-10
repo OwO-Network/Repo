@@ -76,22 +76,6 @@
             "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png"
         },
         {
-            "name": "Jianying",
-            "realBundleID": "com.lemon.lv",
-            "bundleID": "com.lemon.lv",
-            "bundleIdentifier": "com.lemon.lv",
-            "version": "13.8.0",
-            "versionDate": "2025-03-23",
-            "fullDate": "20250323121440",
-            "size": 220161544,
-            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-03-23/Jianying_13.8.0_%40repo.owo.network.ipa",
-            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-03-23/Jianying_13.8.0_%40repo.owo.network.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.lemon.lv.png",
-            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.lemon.lv.png"
-        },
-        {
             "name": "WeChat",
             "realBundleID": "com.tencent.xin",
             "bundleID": "com.tencent.xin",
@@ -170,22 +154,6 @@
             "localizedDescription": "Injected with Regram 1.0-b23",
             "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png",
             "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.burbn.instagram.png"
-        },
-        {
-            "name": "FlowDown",
-            "realBundleID": "wiki.qaq.flow",
-            "bundleID": "wiki.qaq.flow",
-            "bundleIdentifier": "wiki.qaq.flow",
-            "version": "1.0",
-            "versionDate": "2025-03-08",
-            "fullDate": "20250308141719",
-            "size": 17347306,
-            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-03-08/FlowDown_1.0_Nothing_%40repo.owo.network.ipa",
-            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-03-08/FlowDown_1.0_Nothing_%40repo.owo.network.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Nothing",
-            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/wiki.qaq.flow.png",
-            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/wiki.qaq.flow.png"
         },
         {
             "name": "WeChat",
@@ -586,6 +554,22 @@
             "localizedDescription": "Injected with PKC 0.5.6 MiYou 3.8.0 XNSP 2.2.1",
             "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
             "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png"
+        },
+        {
+            "name": "AppInfo",
+            "realBundleID": "uclort.com.AppInfo",
+            "bundleID": "uclort.com.AppInfo",
+            "bundleIdentifier": "uclort.com.AppInfo",
+            "version": "2.0.5",
+            "versionDate": "2024-08-21",
+            "fullDate": "20240821021627",
+            "size": 4790996,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2024-08-21/AppInfo_2.0.5_Nothing_By_uclort_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-08-21/AppInfo_2.0.5_Nothing_By_uclort_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing By uclort",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/uclort.com.AppInfo.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/uclort.com.AppInfo.png"
         },
         {
             "name": "AppInfo",
@@ -1290,6 +1274,22 @@
             "localizedDescription": "Injected with PKC 0.4.3 MiYou 3.6.8",
             "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
             "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png"
+        },
+        {
+            "name": "X",
+            "realBundleID": "com.atebits.Tweetie2",
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.12",
+            "versionDate": "2023-10-28",
+            "fullDate": "20231028180624",
+            "size": 98240383,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2023-10-27/X_10.12_BHTwitter_4.0_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2023-10-27/X_10.12_BHTwitter_4.0_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTwitter 4.0",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.atebits.Tweetie2.png"
         },
         {
             "name": "WeChat",
