@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Feather",
+            "realBundleID": "kh.crysalis.feather",
+            "bundleID": "kh.crysalis.feather",
+            "bundleIdentifier": "kh.crysalis.feather",
+            "version": "1.4.1",
+            "versionDate": "2025-04-11",
+            "fullDate": "20250411021614",
+            "size": 9746714,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-04-10/Feather_1.4.1_Fixed_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-04-10/Feather_1.4.1_Fixed_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Fixed",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/kh.crysalis.feather.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/kh.crysalis.feather.png"
+        },
+        {
             "name": "Instagram",
             "realBundleID": "com.burbn.instagram",
             "bundleID": "com.burbn.instagram",
