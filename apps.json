@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "WeChat",
+            "realBundleID": "com.tencent.xin",
+            "bundleID": "com.tencent.xin",
+            "bundleIdentifier": "com.tencent.xin",
+            "version": "8.0.57",
+            "versionDate": "2025-08-11",
+            "fullDate": "20250811154139",
+            "size": 346427262,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-08-11/WeChat_8.0.57_PKC_0.7.8_MiYou_3.8.7_XNSP_2.2.5_WCElite_1.3.4_HBWechatHelper_1.9.0_Push_Sound_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-08-11/WeChat_8.0.57_PKC_0.7.8_MiYou_3.8.7_XNSP_2.2.5_WCElite_1.3.4_HBWechatHelper_1.9.0_Push_Sound_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with PKC 0.7.8 MiYou 3.8.7 XNSP 2.2.5 WCElite 1.3.4 HBWechatHelper 1.9.0 Push Sound",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png"
+        },
+        {
+            "name": "WeChat",
+            "realBundleID": "com.tencent.xin",
+            "bundleID": "com.tencent.xin",
+            "bundleIdentifier": "com.tencent.xin",
+            "version": "8.0.62",
+            "versionDate": "2025-08-11",
+            "fullDate": "20250811153732",
+            "size": 357967051,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-08-11/WeChat_8.0.62_PKC_0.7.8_MiYou_3.8.7_XNSP_2.2.5_WCElite_1.3.4_HBWechatHelper_1.9.0_Push_Sound_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-08-11/WeChat_8.0.62_PKC_0.7.8_MiYou_3.8.7_XNSP_2.2.5_WCElite_1.3.4_HBWechatHelper_1.9.0_Push_Sound_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with PKC 0.7.8 MiYou 3.8.7 XNSP 2.2.5 WCElite 1.3.4 HBWechatHelper 1.9.0 Push Sound",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png"
+        },
+        {
             "name": "Instagram",
             "realBundleID": "com.burbn.instagram",
             "bundleID": "com.burbn.instagram",
