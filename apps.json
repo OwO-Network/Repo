@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "DYDL",
+            "realBundleID": "nz.owo.DYDL",
+            "bundleID": "nz.owo.DYDL",
+            "bundleIdentifier": "nz.owo.DYDL",
+            "version": "1.0.0",
+            "versionDate": "2025-08-18",
+            "fullDate": "20250818022640",
+            "size": 928970,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-08-18/DYDL_1.0.0_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-08-18/DYDL_1.0.0_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/nz.owo.DYDL.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/nz.owo.DYDL.png"
+        },
+        {
             "name": "Twitter",
             "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "com.atebits.Tweetie2",
