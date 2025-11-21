@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Swiftgram",
+            "realBundleID": "app.swiftgram.ios",
+            "bundleID": "app.swiftgram.ios",
+            "bundleIdentifier": "app.swiftgram.ios",
+            "version": "12.2",
+            "versionDate": "2025-11-21",
+            "fullDate": "20251121112227",
+            "size": 72453754,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-11-21/Swiftgram_12.2_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-11-21/Swiftgram_12.2_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/app.swiftgram.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/app.swiftgram.ios.png"
+        },
+        {
+            "name": "Swiftgram",
+            "realBundleID": "app.swiftgram.ios",
+            "bundleID": "app.swiftgram.ios",
+            "bundleIdentifier": "app.swiftgram.ios",
+            "version": "12.2",
+            "versionDate": "2025-11-21",
+            "fullDate": "20251121112223",
+            "size": 71674011,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/2025-11-21/Swiftgram_12.2_SwiftgramCrack_1.1-4_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-11-21/Swiftgram_12.2_SwiftgramCrack_1.1-4_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with SwiftgramCrack 1.1-4",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/app.swiftgram.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/app.swiftgram.ios.png"
+        },
+        {
             "name": "Twitter",
             "realBundleID": "com.atebits.Tweetie2",
             "bundleID": "com.atebits.Tweetie2",
