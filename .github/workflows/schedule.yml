@@ -3,13 +3,18 @@ on:
     branches: ["main"]
   release:
     types: [published, created, edited, released, prereleased]
+  workflow_run:
+    workflows: ["Subscribe"]
+    types: [completed]
   workflow_dispatch:
-    
+
 permissions: write-all
-  
+
 jobs:
   build:
     runs-on: ubuntu-22.04
+    # When chained from Subscribe, only run if that workflow succeeded.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
 
     steps:
       - name: checkout repo content
