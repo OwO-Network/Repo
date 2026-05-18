@@ -1,0 +1,37 @@
+name: Subscribe
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  subscribe:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+      - name: install python packages
+        run: |
+          pip install PyGithub requests
+      - name: run subscribe script
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          python subscribe.py -t ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated Change
+          commit_options: '--no-verify --signoff'
+          file_pattern: 'subscriptions.json'
+          commit_user_name: My GitHub Actions Bot
+          commit_user_email: my-github-actions-bot@example.org
+          commit_author: Author <actions@github.com>
+          push_options: '--force'

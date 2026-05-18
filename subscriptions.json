@@ -1,0 +1,12 @@
+{
+    "subscriptions": [
+        {
+            "repo": "bggRGjQaUbCoE/PiliPlus",
+            "asset_pattern": "\\.ipa$",
+            "app_name": "PiliPlus",
+            "tweaks": "Nothing",
+            "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
+            "last_tag": ""
+        }
+    ]
+}
