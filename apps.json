@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "jdb_official_v1.9.29",
+            "realBundleID": "com.javdb6.com",
+            "bundleID": "com.javdb6.com",
+            "bundleIdentifier": "com.javdb6.com",
+            "version": "Unknown",
+            "versionDate": "2026-06-24",
+            "fullDate": "20260624095402",
+            "size": 23181510,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.29/jdb_official_v1.9.29.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.29/jdb_official_v1.9.29.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb6.com.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb6.com.png"
+        },
+        {
             "name": "PiliPlus",
             "realBundleID": "com.example.piliplus",
             "bundleID": "com.example.piliplus",
