@@ -2,13 +2,13 @@
     "name": "OwO Source",
     "identifier": "network.owo.repo",
     "sourceURL": "https://repo.owo.network",
-    "iconURL": "https://r2.qwq.mx/files/owo-logo3.png",
-    "sourceicon": "https://r2.qwq.mx/files/owo-logo3.png",
+    "iconURL": "https://raw.githubusercontent.com/OwO-Network/Repo/main/icons/owo.repo.icon.png",
+    "sourceicon": "https://raw.githubusercontent.com/OwO-Network/Repo/main/icons/owo.repo.icon.png",
     "website": "https://owo.network",
     "subtitle": "Biggest Updated Modified IPA Library for Sideloading - OwO.Network",
     "META": {
         "repoName": "OwO Source",
-        "repoIcon": "https://r2.qwq.mx/files/owo-logo3.png"
+        "repoIcon": "https://raw.githubusercontent.com/OwO-Network/Repo/main/icons/owo.repo.icon.png"
     },
     "apps": [
         {
