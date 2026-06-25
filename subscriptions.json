@@ -7,6 +7,14 @@
             "tweaks": "Nothing",
             "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
             "last_tag": "2.0.9.2"
+        },
+        {
+            "repo": "bdvajstudio/javdb",
+            "asset_pattern": "\\.ipa$",
+            "app_name": "JavDB",
+            "tweaks": "Nothing",
+            "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
+            "last_tag": "v1.9.19"
         }
     ]
 }
