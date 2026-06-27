@@ -22,7 +22,7 @@
             "app_name": "Aidoku",
             "tweaks": "Nothing",
             "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
-            "last_tag": "v0.8.3"
+            "last_tag": "v0.8.2"
         }
     ]
 }
