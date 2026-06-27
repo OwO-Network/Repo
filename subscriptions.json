@@ -15,6 +15,14 @@
             "tweaks": "Nothing",
             "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
             "last_tag": "v1.9.35"
+        },
+        {
+            "repo": "Aidoku/Aidoku",
+            "asset_pattern": "\\.ipa$",
+            "app_name": "Aidoku",
+            "tweaks": "Nothing",
+            "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
+            "last_tag": "v0.8.3"
         }
     ]
 }
