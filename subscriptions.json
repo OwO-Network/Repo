@@ -30,7 +30,7 @@
             "app_name": "Feather",
             "tweaks": "Nothing",
             "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
-            "last_tag": "v2.7.0"
+            "last_tag": "v2.8.2"
         }
     ]
 }
