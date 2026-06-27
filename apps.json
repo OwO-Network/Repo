@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "JavDB",
+            "realBundleID": "com.javdb.com",
+            "bundleID": "com.javdb.com",
+            "bundleIdentifier": "com.javdb.com",
+            "version": "1.9.29",
+            "versionDate": "2026-06-27",
+            "fullDate": "20260627063814",
+            "size": 24785348,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.29/JavDB_1.9.29_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.29/JavDB_1.9.29_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png"
+        },
+        {
             "name": "Feather",
             "realBundleID": "kh.crysalis.feather",
             "bundleID": "kh.crysalis.feather",
