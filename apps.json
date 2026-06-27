@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Aidoku",
+            "realBundleID": "app.aidoku.Aidoku",
+            "bundleID": "app.aidoku.Aidoku",
+            "bundleIdentifier": "app.aidoku.Aidoku",
+            "version": "0.8.3",
+            "versionDate": "2026-06-27",
+            "fullDate": "20260627062528",
+            "size": 9287296,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/Aidoku_0.8.3/Aidoku_0.8.3_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Aidoku_0.8.3/Aidoku_0.8.3_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/app.aidoku.Aidoku.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/app.aidoku.Aidoku.png"
+        },
+        {
             "name": "PiliPlus",
             "realBundleID": "com.example.piliplus",
             "bundleID": "com.example.piliplus",
