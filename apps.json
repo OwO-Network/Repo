@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Feather",
+            "realBundleID": "kh.crysalis.feather",
+            "bundleID": "kh.crysalis.feather",
+            "bundleIdentifier": "kh.crysalis.feather",
+            "version": "2.8.2",
+            "versionDate": "2026-06-27",
+            "fullDate": "20260627063016",
+            "size": 14242031,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/Feather_2.8.2/Feather_2.8.2_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Feather_2.8.2/Feather_2.8.2_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/kh.crysalis.feather.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/kh.crysalis.feather.png"
+        },
+        {
             "name": "Aidoku",
             "realBundleID": "app.aidoku.Aidoku",
             "bundleID": "app.aidoku.Aidoku",
