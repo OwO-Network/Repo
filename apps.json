@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Aidoku",
+            "realBundleID": "app.aidoku.Aidoku",
+            "bundleID": "app.aidoku.Aidoku",
+            "bundleIdentifier": "app.aidoku.Aidoku",
+            "version": "0.8.4",
+            "versionDate": "2026-07-03",
+            "fullDate": "20260703092201",
+            "size": 10136987,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/Aidoku_0.8.4/Aidoku_0.8.4_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Aidoku_0.8.4/Aidoku_0.8.4_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/app.aidoku.Aidoku.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/app.aidoku.Aidoku.png"
+        },
+        {
             "name": "JavDB",
             "realBundleID": "com.javdb.com",
             "bundleID": "com.javdb.com",
