@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AIFengYue",
+            "realBundleID": "com.aiporn.aichat",
+            "bundleID": "com.aiporn.aichat",
+            "bundleIdentifier": "com.aiporn.aichat",
+            "version": "1.2.8",
+            "versionDate": "2026-09-08",
+            "fullDate": "20260908031358",
+            "size": 71675169,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/AIFengYue_1.2.8/AIFengYue_1.2.8_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/AIFengYue_1.2.8/AIFengYue_1.2.8_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.aiporn.aichat.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.aiporn.aichat.png"
+        },
+        {
             "name": "PiliPlus",
             "realBundleID": "com.example.piliplus",
             "bundleID": "com.example.piliplus",
