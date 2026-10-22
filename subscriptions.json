@@ -43,9 +43,10 @@
         {
             "repo": "uclort/guoapp",
             "asset_pattern": "\\.ipa$",
-            "app_name": "真果鉴",
+            "app_name": "\u771f\u679c\u9274",
             "tweaks": "Nothing",
-            "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa"
+            "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
+            "last_tag": "v0.2.64+71"
         }
     ]
 }
