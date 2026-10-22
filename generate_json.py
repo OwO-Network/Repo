@@ -60,6 +60,9 @@ if __name__ == "__main__":
                 app_name = name
                 version = "Unknown"
                 tweaks = None
+            # GitHub 资源名会去掉中文，空名称改用 Release 标题。
+            if not app_name:
+                app_name = release.title.split(" ", 1)[0]
 
             if app_name in df.name.values:
                 bundle_id = str(df[df.name == app_name].bundleId.values[0])
