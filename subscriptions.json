@@ -38,7 +38,7 @@
             "app_name": "Mori",
             "tweaks": "Nothing",
             "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
-            "last_tag": ""
+            "last_tag": "v4.5.1"
         }
     ]
 }
