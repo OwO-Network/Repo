@@ -31,6 +31,14 @@
             "tweaks": "Nothing",
             "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
             "last_tag": "v2.9.0"
+        },
+        {
+            "repo": "coflyn/Mori",
+            "asset_pattern": "\\.ipa$",
+            "app_name": "Mori",
+            "tweaks": "Nothing",
+            "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
+            "last_tag": "v4.5.1"
         }
     ]
 }
