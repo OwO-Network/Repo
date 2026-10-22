@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mori",
+            "realBundleID": "com.mori.downloader",
+            "bundleID": "com.mori.downloader",
+            "bundleIdentifier": "com.mori.downloader",
+            "version": "4.5.1",
+            "versionDate": "2026-10-22",
+            "fullDate": "20261022021100",
+            "size": 2099521,
+            "down": "https://github.com/OwO-Network/Repo/releases/download/Mori_4.5.1/Mori_4.5.1_Nothing_%40repo.owo.network.ipa",
+            "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Mori_4.5.1/Mori_4.5.1_Nothing_%40repo.owo.network.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.mori.downloader.png",
+            "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.mori.downloader.png"
+        },
+        {
             "name": "Aidoku",
             "realBundleID": "app.aidoku.Aidoku",
             "bundleID": "app.aidoku.Aidoku",
