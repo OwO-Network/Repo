@@ -73,7 +73,7 @@ def process_subscription(g, target_repo, sub):
         tweaks=sub.get("tweaks", "Nothing"),
     )
 
-    release_tag = sanitize_tag(f"{sub['app_name']}_{version}")
+    release_tag = sanitize_tag(f"{sub['app_name']}_{version}").lstrip("-")
 
     # Skip if we already published this exact version.
     try:
