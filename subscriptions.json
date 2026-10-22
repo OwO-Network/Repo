@@ -39,6 +39,13 @@
             "tweaks": "Nothing",
             "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
             "last_tag": "v4.5.1"
+        },
+        {
+            "repo": "uclort/guoapp",
+            "asset_pattern": "\\.ipa$",
+            "app_name": "真果鉴",
+            "tweaks": "Nothing",
+            "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa"
         }
     ]
 }
