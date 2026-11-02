@@ -6,7 +6,7 @@
             "app_name": "PiliPlus",
             "tweaks": "Nothing",
             "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
-            "last_tag": "2.2.0"
+            "last_tag": "2.2.0.1"
         },
         {
             "repo": "bdvajstudio/javdb",
@@ -38,7 +38,7 @@
             "app_name": "Mori",
             "tweaks": "Nothing",
             "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
-            "last_tag": ""
+            "last_tag": "v4.5.1-custom.1"
         },
         {
             "repo": "uclort/guoapp",
