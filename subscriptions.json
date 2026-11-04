@@ -38,7 +38,7 @@
             "app_name": "Mori",
             "tweaks": "Nothing",
             "name_template": "{app_name}_{version}_{tweaks}_@repo.owo.network.ipa",
-            "last_tag": "v5.1.0-custom.1"
+            "last_tag": "v5.2.0-custom.1"
         },
         {
             "repo": "uclort/guoapp",
